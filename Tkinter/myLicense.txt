@@ -1,0 +1,4 @@
+Bu sözleþme ACRON Bilisim için, ACRON ile SON KULLANICI (gerçek veya tüzel)
+arasýnda yapýlan yasal bir sözleþmedir. YAZILIM'ý yüklemeniz bu sözleþmenin hükümlerini kabul
+ettiðiniz anlamýna gelir. Sözleþmeyi kabul etmediðiniz taktirde YAZILIM'ý yükleyemez ve
+kullanamazsýnýz.
