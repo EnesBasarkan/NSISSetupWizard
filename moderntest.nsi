@@ -107,6 +107,6 @@ SectionEnd
 ;Silmek İçin
 Section "Uninstall"
   Delete $INSTDIR\Uninstall.exe ;exe'yi siler.
-  RMDir /R /REBOOTOK $INSTDIR
+  RMDir /R /REBOOTOK $INSTDIR ;dosyayı kaldırır.
 SectionEnd
 ;--------------------------------
